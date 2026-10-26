@@ -1,0 +1,1 @@
+{ "name": "webdesign", "description": "/webdesign: one-command web design pipeline for Claude Code", "owner": { "name": "ImLiquify" }, "plugins": [{ "name": "webdesign", "source": "./" }] }

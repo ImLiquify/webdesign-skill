@@ -1,0 +1,11 @@
+{
+  "name": "webdesign",
+  "version": "1.0.0",
+  "description": "One command for web design: runs your request through the best design skills in order (copy, real-world references, direction and build, motion, browser check, review, performance) and learns from what you reject.",
+  "author": {
+    "name": "Mohamed Kaiser",
+    "url": "https://github.com/ImLiquify"
+  },
+  "repository": "https://github.com/ImLiquify/webdesign-skill",
+  "license": "MIT"
+}
